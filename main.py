@@ -1,6 +1,7 @@
 import telebot
-from aiogram.types.web_app_info import WebAppInfo
 from telebot import types
+from aiogram.types.web_app_info import WebAppInfo
+
 
 bot = telebot.TeleBot('6991684025:AAGOByZdl4d29Axt37VStKyQARVugk9sxBQ')
 
